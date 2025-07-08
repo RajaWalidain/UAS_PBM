@@ -28,7 +28,8 @@
 ## 🧑‍💻 Developer
 
 - Raja Walidain – [@RajaWalidain](https://github.com/RajaWalidain)
-- (Tambahkan nama temanmu jika ingin)
+- Wina Windaru Kudarniza -
+- Putri Juliani -
 
 ## 🗂️ Struktur Folder (Ringkas)
 
