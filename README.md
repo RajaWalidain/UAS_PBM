@@ -1,22 +1,36 @@
-# uas_ruang_belajar
+# 📚 Ruang Belajar - Aplikasi Manajemen Belajar
 
-A new Flutter project.
+**Ruang Belajar** adalah aplikasi Flutter sederhana yang membantu siswa dalam mengatur kegiatan belajar mereka melalui fitur seperti timer belajar (Pomodoro), manajemen tugas, jadwal pelajaran, dan pengelolaan profil.
 
-## Getting Started
+## 🚀 Fitur Unggulan
 
-wina windari kusdarniza
+- ✅ **Timer Belajar (Pomodoro / Fokus 50 / Custom)**
+- 📅 **Manajemen Tugas** (Tambah, centang, hapus)
+- 📚 **Jadwal Pelajaran** (Hari, mata pelajaran, jam)
+- 👤 **Profil Siswa** (Nama, kelas, jurusan, status)
+- 🌗 **Mode Gelap & Terang** (Toggle switchable)
+- 🔔 **Notifikasi saat waktu belajar selesai**
+- 🎨 **Desain UI modern dan responsif**
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi & Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+| Package | Fungsi |
+|--------|--------|
+| `flutter_local_notifications` | Notifikasi saat timer belajar selesai |
+| `sqflite` | Menyimpan data tugas, jadwal, dan profil di SQLite |
+| `path` | Mendukung penyimpanan lokal database |
+| `intl` | Format tanggal & waktu |
+| `google_fonts` | Menggunakan font custom yang estetis |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📷 Tampilan Aplikasi
+> Screenshots akan ditambahkan di sini (opsional)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧑‍💻 Developer
 
-bisa nih
+- Raja Walidain – [@RajaWalidain](https://github.com/RajaWalidain)
+- (Tambahkan nama temanmu jika ingin)
 
+## 🗂️ Struktur Folder (Ringkas)
+
+## Link Youtube
 https://www.youtube.com/watch?v=jAZTtKWNOK4&t=2s
